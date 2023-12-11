@@ -30,4 +30,4 @@ Lorsque vous utilisez les deux méthodes (barycentre et histogramme), vous devez
   - tkinter
 
 ## Auteurs
-Ce projet a été créé par [Hagop Hannachian , Victor Soler, Amy Lo, Amelie Humeau] dans le cadre du cours de [L2 informatique] à l'université [Université Paris Cite].
+Ce projet a été créé par [Hagop Hannachian , Victor Soler, Amy Lo, Amelie Humeau] dans le cadre du cours de [L2 informatique] à l'université [Université Paris Cité].
