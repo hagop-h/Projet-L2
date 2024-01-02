@@ -17,7 +17,7 @@ Vous devez avoir Python et les bibliothèques OpenCV , NumPy et Matplotlib insta
 Vous devez installez les requirments (voir Manuel d'utilisation)
 Vous pouvez ensuite exécuter le fichier main.py pour exécuter le code principal, oubien exécuter executable.py pour créer un exécutable de main.py vous pouvez ensuite directement lancer le logiciel en cliquant sur main.exe sans utiliser python,pip et les bibliothèques.
 
-###Attention: 
+## Attention: 
 Lorsque vous utilisez les deux méthodes (barycentre et histogramme), vous devez spécifier le pas de l'histogramme et attendre que le résultat de la méthode histogramme s'affiche avant de cliquer sur "Quit"
 
 ## Prérequis
